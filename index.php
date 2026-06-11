@@ -21,9 +21,7 @@
 <body>
 
     <!-- Top Announcement Bar -->
-    <div class="announcement-bar">
-        <p>🎀 Free Shipping on orders above Rs. 999 &nbsp;|&nbsp; Use code <strong>TRENDIG10</strong> for 10% off &nbsp;|&nbsp; New Collection Live Now 🎀</p>
-    </div>
+ 
 
     <?php include("include/header.php"); ?>
 
